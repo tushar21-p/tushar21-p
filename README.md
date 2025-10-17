@@ -34,7 +34,7 @@ If your project sparks curiosity or solves a real problem — count me in!
 ## 📫 Let’s Connect
 
 🧑‍💻 **GitHub:** [github.com/tushar21-p](https://github.com/tushar21-p)  
-💼 **LinkedIn:** [linkedin.com/in/tushar21-p](https://linkedin.com/in/tushar-kumar-prasad-642543203)  
+💼 **LinkedIn:** [linkedin.com/in/tushar-kumar-prasad-642543203](https://linkedin.com/in/tushar-kumar-prasad-642543203)  
 ✉️ **Email:** *prasad.tushar55@example.com* <!-- Replace with your actual email -->
 
 ---
